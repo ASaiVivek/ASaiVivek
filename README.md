@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Portfolio with Jamstack Architecture.
 - 🌱 I’m currently learning about Distributed Systems and Design.
+- 🤔 I’m interested in Full Stack Development, Artificial Intelligence, Information Theory, Cloud Computing, Efficient Distributed System Designs and Data Streaming.
