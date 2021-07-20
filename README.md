@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on my Portfolio with Jamstack Architecture.
+- 🌱 I’m currently learning about Distributed Systems and Design.
