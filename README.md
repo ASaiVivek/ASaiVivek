@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my Portfolio with Jamstack Architecture.
+- 🔭 I’m currently working on creating backend api for univerisities info.
 - 🌱 I’m currently learning about Distributed Systems and Design.
-- 🤔 I’m interested in Full Stack Development, Artificial Intelligence, Information Theory, Cloud Computing, Efficient Distributed System Designs and Data Streaming.
+- 🤔 I’m interested in Backend Development, Efficient Distributed System Design, Artificial Intelligence, Information Theory, Cloud Computing, and Data Streaming.
